@@ -1,4 +1,15 @@
 body {
     font-family: 'Montserrat', sans-serif;
+    background-image: url(../img/fondo.png);
 }
 
+.contenedor img {
+    margin: auto;
+    display: block;
+    
+}
+
+.contenedor h1{
+    margin: auto;
+    display: block;
+}
