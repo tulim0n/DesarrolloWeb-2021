@@ -5,4 +5,11 @@ body{
     background-size: cover;
     background-position: center;
     font-family: sans-serif;
+    
+}
+h6{
+    color: darkred;
+}
+h5{
+    color: dimgrey;
 }
