@@ -62,8 +62,13 @@ body {
 
 footer{
     max-width: 1000px;
-    min-width: 230px;
-    background: rgb(187, 234, 255);
-    margin: 80px auto;
+    background: rgb(164, 223, 247);
+    margin: 0 auto;
     border-radius: 0 0 20px 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 30px;
+    box-sizing: border-box;
+    font-family: arial;
+    font-size: 18px;
 }
