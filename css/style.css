@@ -59,3 +59,11 @@ body {
 .box:hover .hover{
     width: 100%;
 }
+
+footer{
+    max-width: 1000px;
+    min-width: 230px;
+    background: rgb(187, 234, 255);
+    margin: 80px auto;
+    border-radius: 0 0 20px 20px;
+}
